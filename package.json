@@ -1,0 +1,22 @@
+{
+  "name": "reimg",
+  "version": "1.0.0",
+  "description": "reimg - A javascript library for converting image formats  This can convert :  * svg -> base64 * svg -> canvas * svg -> html `<img/>` element * svg -> png * canvas -> base64 * canvas -> html `<img/>` element * canvas -> png",
+  "main": "reimg.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialpinpoint/reimg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socialpinpoint/reimg/issues"
+  },
+  "homepage": "https://github.com/socialpinpoint/reimg#readme"
+}
